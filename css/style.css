@@ -13,7 +13,8 @@ section{
 }
 .half-width{
     width: 50%;
-    padding: 2%;
+    padding-left: 7%;
+    padding-right: 5%;
 }
 .half-width img{
     width: 80%;
@@ -28,4 +29,8 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(../images/developer.png);
+    background-repeat: no-repeat;
 }
